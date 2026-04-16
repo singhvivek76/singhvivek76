@@ -4,7 +4,7 @@
 
 #                          Hi 👋, I'm Vivek Kumar Singh
 #####                 Software Engineering Student • Full Stack Developer (MERN) • Algorithm Enthusias
-'''Building scalable systems, solving hard algorithmic problems, and exploring AI-powered applications.'''
+``Building scalable systems, solving hard algorithmic problems, and exploring AI-powered applications.``
 
 ### 🤝 Connect With Me
  [Portfolio](https://portfolio-rho-steel-77.vercel.app/) • [GitHub](https://github.com/singhvivek76) • [LinkedIn](www.linkedin.com/in/toviveksinghh76) • [LeetCode](https://leetcode.com/u/tovivek/) • [Email](tovivek76@gmail.com)
@@ -16,22 +16,22 @@
 - 🧩 150+ DSA problems solved
 - ⚡ Passionate about scalable systems, Generative AI applications, and intelligent developer tools 🤖 Building AI-powered platforms using LLMs, voice AI, and intelligent automation
 
-'''I enjoy building production-grade web applications, designing clean APIs, and solving complex algorithmic problems.'''
+I enjoy building production-grade web applications, designing clean APIs, and solving complex algorithmic problems.
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-'''C • JavaScript • Python • Java'''
+C • JavaScript • Python • Java
 
 ### 🌐 Frontend
-'''HTML5 • CSS3 • React • TailwindCSS • Bootstrap'''
+HTML5 • CSS3 • React • TailwindCSS • Bootstrap
 
 ### ⚙️ Backend
-'''Node.js • Express.js • REST APIs • Authentication'''
+Node.js • Express.js • REST APIs • Authentication
 
 ### 🗄 Databases
-'''MongoDB • MySQL'''
+MongoDB • MySQL
 
 ### 🛠 Tools
-'''Git • GitHub • Docker • Postman • Vercel'''
+Git • GitHub • Docker • Postman • Vercel
 

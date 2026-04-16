@@ -2,9 +2,9 @@
 **singhvivek76/singhvivek76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-#                         <h1 align="center"> Hi 👋, I'm Vivek Kumar Singh </h1>
-#####                 Software Engineering Student • Full Stack Developer (MERN) • Algorithm Enthusias
-``Building scalable systems, solving hard algorithmic problems, and exploring AI-powered applications.``
+                        <h1 align="center"> Hi 👋, I'm Vivek Kumar Singh </h1>
+#####                <p align="center"> Software Engineering Student • Full Stack Developer (MERN) • Algorithm Enthusias </p>
+<p align="center">Building scalable systems, solving hard algorithmic problems, and exploring AI-powered applications. </p>
 
 ### 🤝 Connect With Me
  [Portfolio](https://portfolio-rho-steel-77.vercel.app/) • [GitHub](https://github.com/singhvivek76) • [LinkedIn](www.linkedin.com/in/toviveksinghh76) • [LeetCode](https://leetcode.com/u/tovivek/) • [Email](tovivek76@gmail.com)

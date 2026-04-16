@@ -2,8 +2,8 @@
 **singhvivek76/singhvivek76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-                        <h1 align="center"> Hi 👋, I'm Vivek Kumar Singh </h1>
-#####                <p align="center"> Software Engineering Student • Full Stack Developer (MERN) • Algorithm Enthusias </p>
+#   <h1 align="center"> Hi 👋, I'm Vivek Kumar Singh </h1>
+###  <p align="center"> Software Engineering Student • Full Stack Developer (MERN) • Algorithm Enthusias </p>
 <p align="center">Building scalable systems, solving hard algorithmic problems, and exploring AI-powered applications. </p>
 
 ### 🤝 Connect With Me

@@ -3,5 +3,5 @@
 -->
 
 ##                                 Hi 👋, I'm Vivek Kumar Singh
-###                 Software Engineering Student • Full Stack Developer (MERN) • Algorithm Enthusiast
-####         Building scalable systems, solving hard algorithmic problems, and exploring AI-powered applications.
+#####                 Software Engineering Student • Full Stack Developer (MERN) • Algorithm Enthusiast
+         Building scalable systems, solving hard algorithmic problems, and exploring AI-powered applications.

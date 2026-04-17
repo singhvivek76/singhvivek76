@@ -36,7 +36,7 @@ I enjoy building **production-grade web applications**, designing **clean APIs**
 # 🛠️ Tech Stack
 
 ### 💻 Languages
-C++ • C • JavaScript • TypeScript • Python • Java
+C • JavaScript • Python • Java
 
 ### 🌐 Frontend
 React • Next.js • HTML5 • CSS3 • TailwindCSS
@@ -45,13 +45,11 @@ React • Next.js • HTML5 • CSS3 • TailwindCSS
 Node.js • Express.js • REST APIs • Authentication
 
 ### 🗄 Databases
-MongoDB • PostgreSQL • MySQL
+MongoDB• MySQL
 
 ### 🛠 Tools
-Git • GitHub • Docker • Postman • Prisma • Vercel
+Git • GitHub • Docker • Postman • Vercel
 
-### 🤖 AI / Gen AI
-LLMs • Groq (LLaMA 3.1) • Gemini • VAPI • Prompt Engineering • AI APIs
 
 ---
 
@@ -59,7 +57,7 @@ LLMs • Groq (LLaMA 3.1) • Gemini • VAPI • Prompt Engineering • AI APIs
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,python,java,react,nextjs,nodejs,express,mongodb,postgres,mysql,git,docker,vercel,tailwind" />
+<img src="https://skillicons.dev/icons?i=c,js,python,java,react,nextjs,nodejs,express,mongodb,mysql,git,docker,vercel,tailwind" />
 
 </p>
 
